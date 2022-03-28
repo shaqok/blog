@@ -1,3 +1,7 @@
 [submodule "themes/hugo-theme-console"]
 	path = themes/hugo-theme-console
 	url = https://github.com/mrmierzejewski/hugo-theme-console.git
+[submodule "public"]
+	path = public
+	url = http://github.com/shaqok/shaqok.github.io.git
+	branch = main
