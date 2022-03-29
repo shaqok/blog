@@ -1,6 +1,7 @@
 ---
 title: "About"
-date: 2022-03-28T15:08:18-05:00
+date: 2022-03-28T22:36:47-05:00
+draft: false
 ---
 
 Hi, welcome to my blog! I am Daniel Daeyeon Kim and I am an international student from South Korea at Carleton College, Northfield, MN - Class of 2023.
