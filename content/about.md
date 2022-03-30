@@ -9,4 +9,4 @@ I major in Computer Science and also recently started to explore Statistics, whi
 My primary interests in CS are building user-friendly services and learning new skills or languages, and I am planning to expand my interests more and more!
 Outside of coding, I enjoy watching soccer, playing pokémon, and listening to music or sometimes making music!
 
-[Github](https://github.com/shaqok) | [LinkedIn](https://www.linkedin.com/in/daniel-daeyeon-kim-378584220/)
+[Github](https://github.com/shaqok) | [LinkedIn](https://www.linkedin.com/in/daniel-daeyeon-kim-378584220/) | [Email](shaqok8@gmail.com)
