@@ -1,10 +1,11 @@
 ---
-title: "Writing a simple shell"
+title: "Writing a Simple Shell"
 date: 2022-03-29T23:53:05-05:00
 draft: false
 categories:
 - shell
 tags:
+- bash
 - shell
 - hugo
 ---
